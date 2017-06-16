@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color for the Where to Eat category -->
+    <color name="rest_act">#D0955F</color>
+    <!-- Color for the Where to Go category -->
+    <color name="pub_act">#000FCC</color>
+    <!-- Color for the Where to See category -->
+    <color name="attr_act">#6D462D</color>
+    <!-- Color for the Where to Sleep category -->
+    <color name="hotels_act">#000A92</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_act_full">88dp</dimen>
+    <dimen name="list_act_half">44dp</dimen>
+    <dimen name="cat_image">240dp</dimen>
+    <dimen name="small_padding">16dp</dimen>
+</resources>

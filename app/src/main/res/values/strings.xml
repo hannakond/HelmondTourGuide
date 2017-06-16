@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Your Helmond</string>
+    <!-- Category names for Activities -->
+    <string name="category_restaurants">Eat Here</string>
+    <string name="category_attractions">Go Here</string>
+    <string name="category_pubs">Drink Here</string>
+    <string name="category_hotels">Stay Here</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant1">Ons Loes</string>
+    <string name="eat_info1">F. J. van Thielpark 4, 5707 BX</string>
+    <string name="restaurant2">Kasteelpoort</string>
+    <string name="eat_info2">De Wiel 22, 5701 PN</string>
+    <string name="restaurant3">De Traverse</string>
+    <string name="eat_info3">Steenweg 19, 5707 CD</string>
+    <string name="restaurant4">Il Borgo</string>
+    <string name="eat_info4">Markt 7, 5701</string>
+
+    <!-- Attractions -->
+    <string name="attraction1">Castle of Helmond</string>
+    <string name="go_info1">Kasteelplein 1, 5701 PP</string>
+    <string name="attraction2">Theater Speelhuis</string>
+    <string name="go_info2">Kromme Steenweg 29, 5707 BS</string>
+    <string name="attraction3">Stadspark de Warande</string>
+    <string name="go_info3">Warandelaan, 5707</string>
+    <string name="attraction4">Gemeentemuseum </string>
+    <string name="go_info4">F.J. van Thielpark 7</string>
+    <string name="attraction5">Heilige Lambertuskerk</string>
+    <string name="go_info5">Kerkstraat 54, 5701 PM</string>
+
+    <!-- Pubs -->
+    <string name="pub1">Muziekcafé</string>
+    <string name="see_info1">Zuid Koninginnewal 39, 5701 NS</string>
+    <string name="pub2">Lokaal42</string>
+    <string name="see_info2">Markt 42, 5701 RL</string>
+    <string name="pub3">Brasserie \'t Zusje</string>
+    <string name="see_info3">Steenweg 2-4, 5707 CG</string>
+    <string name="pub4">Coffeeshop BonneVille</string>
+    <string name="see_info4">Wolfstraat 124, 5701 JH</string>
+
+    <!-- Hotels -->
+    <string name="hotel1">Hampshire Hotel Fitland</string>
+    <string name="sleep_info1">Scheepsboulevard 2, 5705 KZ</string>
+    <string name="hotel2">St Lambert Hotel</string>
+    <string name="sleep_info2">Markt 2, 5701 RK</string>
+    <string name="hotel3">Golden Tulip West Ende</string>
+    <string name="sleep_info3">Steenweg 1, 5707 CD</string>
+
+    <!-- Price categories -->
+    <string name="cheap">€</string>
+    <string name="reasonable">€€</string>
+    <string name="expensive">€€€</string>
+</resources>

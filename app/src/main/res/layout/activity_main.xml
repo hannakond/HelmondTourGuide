@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wood"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/cat_image"
+            android:scaleType="center"
+            android:src="@drawable/night" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/rest_act">
+
+            <TextView
+                android:id="@+id/restaurants"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_restaurants" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/pub_act">
+
+            <TextView
+                android:id="@+id/pubs"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_pubs" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/attr_act">
+
+            <TextView
+                android:id="@+id/attractions"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_attractions" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/hotels_act">
+
+            <TextView
+                android:id="@+id/hotels"
+                style="@style/CategoryStyle"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_hotels" />
+        </FrameLayout>
+
+    </LinearLayout>
+</ScrollView>
